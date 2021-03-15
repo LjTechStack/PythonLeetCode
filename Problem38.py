@@ -1,6 +1,5 @@
 import unittest
 
-
 def say(string: str) -> str:
     prev = ""
     count = 1
